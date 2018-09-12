@@ -16,8 +16,10 @@
 ## 3. 啟動 Nginx
 * 開啟終端機輸入 brew services start nginx
 ![image](https://github.com/sheng0208/NginxInstallTutorial/blob/master/img/StartNginx.png)
-* 看到上面表示安裝成功
+* 看到上面表示啟動成功
 
 ## 4. 開啟瀏覽器測試
 * 開啟瀏覽器網址輸入 127.0.0.1:8080
-![image]()
+![image](https://github.com/sheng0208/NginxInstallTutorial/blob/master/img/WelcomeToNginx.png)
+* 如果看到這個畫面表示完成了Nginx安裝了
+* lol
