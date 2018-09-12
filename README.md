@@ -9,4 +9,4 @@
 
 ## 2. 安裝Nginx
 * 輸入 brew install nginx
-* 
+* ![image](https://github.com/sheng0208/NginxInstallTutorial/blob/master/img/NginxInstall.png)
