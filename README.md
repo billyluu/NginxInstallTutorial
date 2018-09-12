@@ -9,4 +9,5 @@
 
 ## 2. 安裝Nginx
 * 輸入 brew install nginx
-* ![image](https://github.com/sheng0208/NginxInstallTutorial/blob/master/img/NginxInstall.png)
+![image](https://github.com/sheng0208/NginxInstallTutorial/blob/master/img/NginxInstall.png)
+* 看到上面表示安裝成功
